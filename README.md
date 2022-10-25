@@ -1,0 +1,1 @@
+This project will be my first html coding project and the purpose of it is to get the hang of HTML and then adjust it later on with CSS to make it look nicer. I will be adding recipes and having links to different ones so far.
